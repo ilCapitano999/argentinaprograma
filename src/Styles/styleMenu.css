@@ -1,0 +1,17 @@
+.contenedorMenu{
+    height: 95px;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    width: 100%;
+}
+
+.nav-link{
+    background-color: #f3f3f3;
+}
+
+.navbar{
+    width: 100%;
+    background-color: #f3f3f3;
+
+}

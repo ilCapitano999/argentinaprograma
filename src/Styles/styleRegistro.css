@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400&display=swap');
+
+
+label{
+    font-size: 18px;
+    font-family: 'Noto Sans KR', sans-serif;
+    display: block;
+    text-align: left;
+    color: #fdfdfde0;
+}
+
+.formContainer{
+    width: 20em;
+    max-height:680px;
+    min-height: 200px;
+    border: 1px black solid;
+    border-radius: 25px;
+    
+    margin: 0 auto;
+    background-color: rgba(84, 87, 86 );
+    padding: 20px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+
+.contenedorFormulario{
+    border: 0px black solid;
+    min-height:calc(100vh - 196px);
+    background-color:#f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloFormulario{
+    color:  #fdfdfde0;
+}
+
+.mensajeError{
+    color: #FA3232;
+    
+}
